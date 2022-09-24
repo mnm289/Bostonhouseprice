@@ -3,6 +3,4 @@ sklearn
 pandas 
 numpy 
 matplotlib
-crypt
-distutils.log
-hashlib
+gunicorn
